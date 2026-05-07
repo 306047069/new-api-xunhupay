@@ -2,7 +2,7 @@ name: Build New-API with Xunhupay
 
 on:
   push:
-    branches: [main]
+    branches: [main, master]
   workflow_dispatch:
 
 jobs:
